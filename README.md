@@ -3,12 +3,23 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.3.0
+# Current version: 0.4.0
 
 
 
 
 # LOGS
+
+
+## V 0.4.0
+- Created Inventory Component and Item Data Types
+- Created Item Blueprint and ItemDataComponent
+- Created Add Inventory Function
+- Added Inventory Widgets
+- Created Drag and Drop
+- Added Hotbar
+- Updated README.md
+
 
 
 ## V 0.3.0
