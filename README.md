@@ -3,12 +3,16 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.6.0
+# Current version: 0.6.1
 
 
 
 
 # LOGS
+
+## V 0.6.1
+- Added forgotten files
+
 
 
 ## V 0.6.0
