@@ -3,7 +3,7 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.5.0
+# Current version: 0.6.0
 
 
 
@@ -11,7 +11,16 @@ Developed with Unreal Engine 5
 # LOGS
 
 
-##  V 0.5.0
+## V 0.6.0
+- Added equp slot mapping
+- Added show equipped item function
+- Improved Equip Slot Function
+- Created Use Interaction Mapping
+- Added UseOnActor and Place Interaction
+
+
+
+## V 0.5.0
 - Basic inventory System reworwed
 - Cleared components and added InventoryFull Log
 - Updated README.md
