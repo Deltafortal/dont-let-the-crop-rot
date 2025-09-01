@@ -3,12 +3,18 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.6.1
+# Current version: 0.7.0
 
 
 
 
 # LOGS
+
+
+## V 0.7.0
+- Added basic farming system
+
+
 
 ## V 0.6.1
 - Added forgotten files
