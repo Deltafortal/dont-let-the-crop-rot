@@ -3,12 +3,16 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.9.0
+# Current version: 0.10.0
 
 
 
 
 # LOGS
+
+
+## V 0.10.0
+- Created Basic Character
 
 
 ## V 0.9.0
