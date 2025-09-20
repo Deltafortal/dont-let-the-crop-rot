@@ -3,12 +3,18 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.7.0
+# Current version: 0.9.0
 
 
 
 
 # LOGS
+
+
+## V 0.9.0
+- Added hotbar Widget
+- Added EquipSlot Logic
+
 
 
 ## V 0.8.0
@@ -20,6 +26,8 @@ Developed with Unreal Engine 5
 - Added RemoveItem Function
 - Deleted Garbage
 - Added Remove Item Function
+
+
 
 ## V 0.7.0
 - Added basic farming system
