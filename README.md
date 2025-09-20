@@ -11,6 +11,16 @@ Developed with Unreal Engine 5
 # LOGS
 
 
+## V 0.8.0
+- Started Inventory Component Add Item Function
+- Added Create New Slot in AddItem Function
+- Completed Create new stack and inventory full in AddItem Function
+- Fixed Add Item Function
+- Added Inventory Widgets
+- Added RemoveItem Function
+- Deleted Garbage
+- Added Remove Item Function
+
 ## V 0.7.0
 - Added basic farming system
 
