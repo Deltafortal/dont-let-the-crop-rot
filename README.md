@@ -3,12 +3,17 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.11.0
+# Current version: 0.11.1
 
 
 
 
 # LOGS
+
+
+## V 0.11.1
+- Fixed Actions for new Equippment System
+
 
 
 ## V 0.11.0
