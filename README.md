@@ -3,12 +3,17 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.10.0
+# Current version: 0.11.0
 
 
 
 
 # LOGS
+
+
+## V 0.11.0
+- Added TileManager and Snap For Place Action
+
 
 
 ## V 0.10.0
