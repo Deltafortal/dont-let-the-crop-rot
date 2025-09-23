@@ -3,12 +3,17 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.12.0
+# Current version: 0.12.1
 
 
 
 
 # LOGS
+
+
+## V 0.12.1
+- Deleted old Interface and Fixed error in the Farming System 
+
 
 
 ## V 0.12.0
