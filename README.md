@@ -3,12 +3,17 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.11.1
+# Current version: 0.12.0
 
 
 
 
 # LOGS
+
+
+## V 0.12.0
+- Added Crop, plants and soil models
+
 
 
 ## V 0.11.1
