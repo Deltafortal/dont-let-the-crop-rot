@@ -3,12 +3,17 @@
 Developed with Unreal Engine 5
 
 
-# Current version: 0.12.1
+# Current version: 0.13.0
 
 
 
 
 # LOGS
+
+
+## V 0.13.0
+- Added basic level assets
+
 
 
 ## V 0.12.1
